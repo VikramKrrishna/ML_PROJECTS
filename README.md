@@ -1,2 +1,2 @@
 # PROJECTS
-Workout Projects
+My Projects
